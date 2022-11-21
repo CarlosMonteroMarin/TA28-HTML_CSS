@@ -1,0 +1,29 @@
+body {font-family: Lucida Sans Unicode; width: 900px; text-align: justify;}
+h1 {text-align: center;   letter-spacing: 10px;}
+h2 {color:rgb(65, 185, 85)}
+h3{ color: rgb(206, 152, 52);}
+
+
+.span1{
+color: rgb(4, 133, 21);
+}
+
+.span2{
+    color: rgb(206, 152, 52);
+}
+
+.indice{
+    float: left;
+    position: relative;
+    width: 150px;
+    
+}
+.cuerpo{
+    float: left;
+    position: relative;
+    width: 700px;
+
+    border: 1px solid rgb(194, 194, 194);
+    padding: 10px;
+    margin: 10px;
+}
